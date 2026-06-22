@@ -1,0 +1,3 @@
+meshInputFile;bcType;u_left;u_right;u_start;maxSteps;GcVal;waterOn;maxSteps
+00_Test.xdmf;uniformPull;0;10;0;10;240e0;1;100
+

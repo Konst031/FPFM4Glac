@@ -1,0 +1,4 @@
+results/*
+mesh/*
+__pycache__
+.vscode
