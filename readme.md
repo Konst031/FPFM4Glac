@@ -3,7 +3,7 @@ This repository is associated with the paper "Fracture Phase-Field Modeling of S
 Drainage and Marine Ice Cliff Instability"
 
 ## Requirements
-Built for fenics-dolfinx version 0.9.0.
+Built for fenics-dolfinx version 0.8.0.
 We reccomend the usage of an appropriate Docker image from:
 https://hub.docker.com/r/dolfinx/dolfinx/tags 
 
